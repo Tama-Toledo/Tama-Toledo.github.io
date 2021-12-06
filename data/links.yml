@@ -1,53 +1,34 @@
 ---
-- group: Static Sites @ Grinnell College
+- group: Various Tama-Toledo Org Sites
   items:
-    - title: Visualizing Abolition and Freedom
+    - title: The Tama-Toledo Org Landing Page
       icon: fas fa-th
-      url: https://vaf.grinnell.edu/
-      description: The _Visualizing Abolition and Freedom_ site relates to an installation of public art located at the north end of the ground floor atrium in the _Humanities and Social Sciences Center_ (HSSC) at Grinnell College.
-    - title: The Digital Library Application Developer's Blog
-      icon: fas fa-edit
-      url: https://static.grinnell.edu/dlad-blog/
-      description: Mark's old (prior to March 10, 2020) and NEW (as of June 25, 2020) professional blog.  Now hosted in _GitHub Pages_.
-    - title: Rootstalk - A Prairie Journal of Culture, Science, and the Arts
+      url: https://TamaToledo.org/
+      description: The site you are currently viewing.
+    - title: Tama-Toledo Community Visioning
       icon: fab fa-pagelines
-      url: https://rootstalk.grinnell.edu/
-      description: The NEW "Rootstalk - A Prairie Journal of Culture, Science, and the Arts" hosted in _DigitalOcean_.
-    - title: Visualizing Abolition and Freedom - Kiosk Version
+      url: https://CommunityVisioning.TamaToledo.org/
+      description: New home of Tama-Toledo Community Visioning on the web
+    - title: STC-REC @ TamaToledo.org 
+      icon: fas fa-edit
+      url: https://STC-Rec.TamaToledo.org
+      description: The new internet home of STC-REC.
+    - title: Toledo's Original Community Visioning Site 
       icon: fas fa-th
-      url: https://vaf-grinnell.github.io/vaf-kiosk/
-      description: This is a link to the "kiosk version" of the _Visualizing Abolition and Freedom_ site.  It's essentially the same as the other/public site, but without links to _Digital Grinnell_, and is intended to run on a mobile device adjacent to the art installation inside the _Humanities and Social Sciences Center_ (HSSC).
+      url: https://communityvisioning.org/toledo/
+      description: Just what the name says.  This site, provided by the Community Visioning program, is limited in scope so more up-to-date information can be found at http://tamatoledo.org/CommunityVisioning/.
+    - title: Tama's Original Community Visioning Site 
+      icon: fas fa-th
+      url: https://communityvisioning.org/tama/
+      description: Just what the name says.  This site, provided by the Community Visioning program, is limited in scope so more up-to-date information can be found at http://tamatoledo.org/CommunityVisioning/.
 
 - group: OneTab Links
   items:
-    - title: Mark's Essential/Daily GC Links
+    - title: About Migration to GitHub Pages
       icon: fas fa-link
-      url: https://www.one-tab.com/page/WenUDyNzTqSefA6iFqiIag
-      description: Essential links pertinent to the _Digital Library Application Deveoloper_'s work at Grinnell College.
-    - title: Digital.Grinnell MODS Master Google Sheet+
-      icon: fab fa-google-drive
-      url: https://www.one-tab.com/page/76KH1OHPRjGyk6xZ3apFGA
-      description: Digital.Grinnell's MODS Master Google Sheet and active collection metadata sheets derived from it.
-    - title: DrupalCorn 2019
-      url: https://www.one-tab.com/page/T9LykkXSRairWN8T-Kk1Wg
-      icon: fab fa-drupal
-      description: A Firefox session of tabs from my experience at [DrupalCorn Camp 2019](https://2019.drupalcorn.org/).
-    - title: Mark's Home Office Tabs - No VPN
-      icon: fas fa-home
-      url: https://www.one-tab.com/page/Da1WeMHXQc2EqPF_1xaL-A
-      description: This is a link to Mark's work-related tabs that do not require a VPN connection.
-    - title: ISLE Automated Testing
-      icon: fas fa-robot
-      url: https://www.one-tab.com/page/KAxHlFFnQESHW8Ec-4zNKg
-      description: Really just practicing here.  I saved a Firefox session of 4 tabs related to _ISLE Automated Testing_ using [OneTab](https://www.one-tab.com/).  Now, I should be able to click the associated link to recover my session!
-    - title: OneTab Links from the January 2021 ICG Virtual Hackdoc
-      icon: fas fa-hand-paper
-      url: https://www.one-tab.com/page/viFgpfW2TN20hzsG8h67fQ
-      description: Just what the name says.
-    - title: LASIR Implementation Resources
-      icon: fas fa-graduation-cap
-      url: https://www.one-tab.com/page/xTjxMeRsSMyx8wl4eglckA
-      description: Just what the name says.
+      url: https://www.one-tab.com/page/Pm1eXBmxS8KOe7PjCt_DLg
+      description: Just some resource links I captured while moving some Grinnell College sites to _GitHub Pages_.
+
 ---
 
 ## Elements below are effectively disabled...they appear after the close (---) of the YAML data.
