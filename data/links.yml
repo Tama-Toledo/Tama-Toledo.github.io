@@ -1,7 +1,7 @@
 ---
-- group: Various Tama-Toledo Org Sites
+- group: Tama-Toledo Org Sites
   items:
-    - title: The Tama-Toledo Org Landing Page
+    - title: The Tama-Toledo .Org Landing Page
       icon: fas fa-th
       url: https://TamaToledo.org/
       description: The site you are currently viewing.

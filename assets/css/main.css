@@ -10,7 +10,7 @@ body {
   background-color: black;
   background-size: cover;
   flex-wrap: wrap;
-  color: #ff2e27;
+  color: #1e2dc1;
 }
 
 .card {
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, i.fas, i.fab, span.groupText {
-  color: #ff2e27;
+  color: #1e2dc1;
 }
 
 .form-control::placeholder {
@@ -40,7 +40,7 @@ h1, h2, h3, i.fas, i.fab, span.groupText {
 }
 
 h1.site-banner {
-  color: #ff2327;
+  color: #1e2dc1;
   font-size: 44pt;
   font-weight: 500;
 }
@@ -59,7 +59,7 @@ h1.site-banner {
 }
 
 a {
-  color: #ff2327;
+  color: #1e2dc1;
 }
 
 p.disclaimer {
