@@ -4,7 +4,7 @@ languageCode = "en-US"
 title = "Tama-Toledo"
 theme = "bootstrap-bp-hugo-startpage"
 #googleAnalytics = "UA-146526628-1"
-#GA4 = "G-K8PWCNJH23"
+GA4 = "G-QQ4NQM00L0"
 copyright = "Mackenzie McFate"
 enableRobotsTXT = true
 pygmentsCodeFences = true
@@ -25,7 +25,7 @@ paginate = 5
   name = "Mackenzie G. McFate with a little help from Dad"
 
 [params]
-  description = "Welcome to the Tama-Toledo.org landing page on GitHub.io!"
+  description = "Welcome to the TamaToledo.org landing page on GitHub.io!"
   #images = ["logo.jpg"]
   startPageColumns = true
   welcomeText = "This landing page is designed solely to provide navigation to the sites/services listed below."

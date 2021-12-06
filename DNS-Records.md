@@ -5,7 +5,9 @@ _eNom_ should now direct DNS to these records as of 5-Dec-2021.
 | Host Name | Record Type | Address | Purpose |
 | --- | --- | --- | --- |
 | ~@~ | ~TXT~ | ~include:_spf.emfwd.name-services.com mx ?all~ | Removed 6-Dec-2021 |
-| @ | CNAME | tama-toledo.github.io | Added 6-Dec-2021 |
+| ~@~ | ~CNAME~ | ~tama-toledo.github.io~ | Removed 6-Dec-2021 |
+| @ | A | 185.199.108.153 | Added 6-Dec-2021 |
+| www | CNAME | tama-toledo.github.io. | Added 6-Dec-2021 just in case it's needed |
 | imap | CNAME | mail.tamatoledo.org.cust.a.hostedemail.com. | Required for @tamatoledo.org email to RECEIVE |
 | smtp | CNAME | mail.tamatoledo.org.cust.a.hostedemail.com. | Required for @tamatoledo.org email to SEND |
 | webmail | CNAME | webmail.tamatoledo.org.cust.a.hostedemail.com. | Required for webmail.tamatoledo.org |
