@@ -40,7 +40,7 @@ h1, h2, h3, i.fas, i.fab, span.groupText {
 }
 
 h1.site-banner {
-  color: #1e2dc1;
+  color: #7B68EE;
   font-size: 44pt;
   font-weight: 500;
 }
@@ -64,4 +64,9 @@ a {
 
 p.disclaimer {
   margin-top: 10px;
+}
+
+div.footer,
+h2.site-description {
+  color: #7B68EE;
 }

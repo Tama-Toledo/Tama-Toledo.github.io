@@ -5,14 +5,14 @@
       icon: fas fa-th
       url: https://TamaToledo.org/
       description: The site you are currently viewing.
-    - title: Tama-Toledo Community Visioning
-      icon: fab fa-pagelines
-      url: https://CommunityVisioning.TamaToledo.org/
-      description: New home of Tama-Toledo Community Visioning on the web
     - title: STC-REC @ TamaToledo.org 
-      icon: fas fa-edit
-      url: https://STC-Rec.TamaToledo.org
+      icon: fas fa-running
+      url: https://TamaToledo.org/stc-rec/
       description: The new internet home of STC-REC.
+    - title: Tama-Toledo Community Visioning
+      icon: fas fa-infinity
+      url: https://TamaToledo.org/community-visioning/
+      description: New home of Tama-Toledo Community Visioning on the web
     - title: Toledo's Original Community Visioning Site 
       icon: fas fa-th
       url: https://communityvisioning.org/toledo/
@@ -21,6 +21,10 @@
       icon: fas fa-th
       url: https://communityvisioning.org/tama/
       description: Just what the name says.  This site, provided by the Community Visioning program, is limited in scope so more up-to-date information can be found at http://tamatoledo.org/CommunityVisioning/.
+    - title: Toledo's Wieting Theatre 
+      icon: fas fa-theater-masks
+      url: https://wieting.tamatoledo.com/
+      description: Internet home of Toledo's Wieting Theatre.
 
 - group: OneTab Links
   items:
