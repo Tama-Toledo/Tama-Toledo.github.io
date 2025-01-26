@@ -9,8 +9,8 @@
       icon: fas fa-running
       url: https://stc-rec.TamaToledo.org/
       description: The new internet home of STC-REC.
-    - title: Hometown Action Team (formerly Tama-Toledo Community Visioning)
-      icon: fa-solid fa-heart-circle-exclamation
+    - title: Hometown Action Team<br/>(formerly Tama-Toledo Community Visioning)
+      icon: fas fa-hat-wizard
       url: https://polite-hill-0d319750f.4.azurestaticapps.net/
       description: New home of Hometown Action Team - Tama-Toledo (formerly Community Visioning) on the web
     - title: Tama-Toledo Community Visioning (Old Site)

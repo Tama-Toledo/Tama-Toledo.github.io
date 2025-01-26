@@ -9,7 +9,7 @@ copyright = "Mackenzie McFate"
 enableRobotsTXT = true
 pygmentsCodeFences = true
 canonifyurls = true
-paginate = 5
+pagination.pagerSize = 5
 
 [sitemap]
   changefreq = "weekly"
