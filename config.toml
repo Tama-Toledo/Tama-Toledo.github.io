@@ -29,9 +29,9 @@ pagination.pagerSize = 5
   #images = ["logo.jpg"]
   startPageColumns = true
   welcomeText = "This landing page is designed solely to provide navigation to the sites/services listed below."
-  buildDate = '2021-12-05 19:53'
+  buildDate = '2025-01-25 09:53'
   footertext = "<a href='https://summittdweller.com/blogs/mark' target='_blank' class='footer'> <i class='fas fa-code'></i> &nbsp;&nbsp;Hugo site by the McFates.</a>"
-  twitter = "https://twitter.com/SummittDweller"
+  # twitter = "https://twitter.com/SummittDweller"
   facebook = "https://facebook.com/Summitt.Dweller"
 
 [[params.searchEngines]]
